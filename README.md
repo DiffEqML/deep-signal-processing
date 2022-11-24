@@ -1,10 +1,9 @@
 <h1 align='center'>Deep Signal Processing</h1>
-<h2 align='center'>
-  Accompanying notebook guides to the notes [TBA] 
-</h2>
+<h2 align='center'> Accompanying notebook guides to the notes [TBA] </h2>
 
 
-## The Atlas of Convolutions -- Part 1: Memory, Causality and Parameter Scaling
+## The Atlas of Convolutions 
+### Part 1: Memory, Causality and Parameter Scaling
 * `basics`: introduces the basic idea of a linear convolution and the different ways of implementing it
 * `fft_conv`: discusses diagonalization of circulant matrices, motivating an efficient method to convolve signals
 * `causality`: investigates how to enforce causality of a convolution 
