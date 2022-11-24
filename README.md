@@ -1,5 +1,5 @@
 <h1 align='center'>Deep Signal Processing</h1>
-<h2 align='center'> Accompanying notebook guides to the notes [TBA] </h2>
+<h2 align='center'> Accompanying notebooks for [TBA] </h2>
 
 
 ## The Atlas of Convolutions 
